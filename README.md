@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codwithmukal&label=Profile%20views&color=0e75b6&style=flat" alt="codwithmukal" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Full Stack**
 
 - 📝 I sometimes write articles on [https://medium.com/@mukalm.ic.24](https://medium.com/@mukalm.ic.24)
 

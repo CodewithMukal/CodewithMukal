@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mukal.ic.24@nitj.ac.in**
 
-- ⚡ Fun fact **I think I am funny(I am 🤓).**
+- ⚡ Fun fact **I make repos and star them myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

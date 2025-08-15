@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mukalmarkanda" target="blank"><img src="https://img.shields.io/twitter/follow/mukalmarkanda?logo=twitter&style=for-the-badge" alt="mukalmarkanda" /></a> </p>
 
-- 🔭 I’m currently working on [Leetracer](leetracer.vercel.app)
+- 🔭 I’m currently working on <a href="https://leetracer.vercel.app" target="_blank" >Leetracer</a>
 
 - 🌱 I’m currently learning **Next.JS and DevOPS**
 
-- 👨‍💻 All of my projects are available at [mukal.me](mukal.me)
+- 👨‍💻 All of my projects are available at <a href="https://mukal.me" target="_blank" >mukal.me</a>
 
 - 💬 Ask me about **MERN**
 

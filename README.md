@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-mukal.markanda123%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:mukal.markanda123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mukal--markanda-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukal-markanda)
 [![Twitter](https://img.shields.io/badge/Twitter-@mukalmarkanda-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mukalmarkanda)
-[![Instagram](https://img.shields.io/badge/Instagram-@ordinary__mukal-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ordinary_mukal)
+[![Instagram](https://img.shields.io/badge/Instagram-@ordinary__mukal-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mukal.markanda)
 
 <img src="https://komarev.com/ghpvc/?username=codewithmukal&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 

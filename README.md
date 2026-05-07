@@ -1,80 +1,123 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mukal Markanda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithmukal&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmukal" />
-</p>
+# Mukal Markanda
+### Full Stack Developer · Open Source Enthusiast · NIT Jalandhar
 
-<p align="center">
-  <a href="https://twitter.com/mukalmarkanda" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mukalmarkanda?logo=twitter&style=for-the-badge" alt="mukalmarkanda" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mukal.me-black?style=flat-square&logo=vercel&logoColor=white)](https://mukal.me)
+[![Email](https://img.shields.io/badge/Email-mukal.markanda123%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:mukal.markanda123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mukal--markanda-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukal-markanda)
+[![Twitter](https://img.shields.io/badge/Twitter-@mukalmarkanda-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mukalmarkanda)
+[![Instagram](https://img.shields.io/badge/Instagram-@ordinary__mukal-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ordinary_mukal)
 
-<table>
-<tr>
-<td>
+<img src="https://komarev.com/ghpvc/?username=codewithmukal&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
-🌱 I’m currently learning <b>Go Lang</b>
+</div>
 
-</td>
-<td>
-<img width="40" height="30" src="https://github.com/user-attachments/assets/84029991-0951-40bd-a3fb-bcc752c6ea47" alt="Go Lang"/>
-</td>
-</tr>
-</table>
+---
 
-- 👨‍💻 All of my projects are available at <a href="https://mukal.me" target="_blank">mukal.me</a>
+## 👋 About Me
 
-- 💬 Ask me about **MERN**
+I'm a **Instrumentation and Contol Engineering student at NIT Jalandhar** with a passion for building full-stack web applications and writing clean, scalable code. I enjoy taking ideas from zero to production - designing databases, crafting APIs, and shipping polished UIs.
 
-- 📫 How to reach me: **mukal.markanda123@gmail.com**
+Currently **open to internships** across Frontend, Backend, and Full Stack roles.
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 &nbsp;Built the full-stack platform for **Boxes N Bottles** (Jan–Feb 2026) - DB design, UI/UX, auth flows & APIs
+- 🌱 &nbsp;Currently levelling up in **Go Lang** and **DevOps**
+- 💬 &nbsp;Ask me about **MERN Stack**, **REST APIs**
+- 📍 &nbsp;Based in India · Available for remote & hybrid roles
+- ⚡ &nbsp;Fun fact: I enjoy solving leetcode questions than actually studying DSA
 
-<table>
-  <tr>
-    <td>
-      <a href="https://twitter.com/mukalmarkanda" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/mukal-markanda" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://instagram.com/ordinary_mukal" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 💼 Experience
 
-<table>
-  <tr>
-    <td><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a></td>
-    <td><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a></td>
-    <td><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a></td>
-    <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a></td>
-    <td><a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a></td>
-    <td><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a></td>
-    <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a></td>
-    <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a></td>
-    <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a></td>
-    <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a></td>
-    <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a></td>
-    <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a></td>
-    <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a></td>
-    <td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a></td>
-    <td><a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /></a></td>
-  </tr>
-</table>
+### Full Stack Developer Intern - Boxes N Bottles *(UB Next)*
+`January 2026 – February 2026`
+
+> A paid internship at a startup founded by a senior from NIT Jalandhar.
+
+- Led end-to-end development of [boxesnbottles.com](https://boxesnbottles.com) - primary contributor
+- Designed the entire **database schema** and **system architecture** from scratch
+- Built **authentication & signup flows**, RESTful APIs, and full UI/UX
+- Collaborated directly with the founder, making independent architectural decisions throughout
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Tools & Platforms
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+
+### Other
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP-Principles-555555?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-Problem_Solving-555555?style=flat-square)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithmukal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmukal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=codewithmukal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations, collaboration, or just a good tech chat. Feel free to reach out!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mukal.me-000000?style=for-the-badge)](https://mukal.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mukal-markanda)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukal.markanda123@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+</div>
